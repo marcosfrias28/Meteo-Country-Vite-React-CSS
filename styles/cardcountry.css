@@ -10,6 +10,7 @@
 
 #country-card {
     display: grid;
+    padding: 0 60px;
     grid-template-rows: repeat(2, 1fr);
     grid-template-columns: repeat(3, 1fr);
     padding-bottom: 50px;
@@ -34,7 +35,9 @@
     align-self: center;
     justify-self: end;
 }
-
+.flag {
+    width: 400px;
+}
 @media screen and (max-width: 720px) {
     #root {
         height: auto;
