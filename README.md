@@ -14,7 +14,7 @@ Meteo Country è un'applicazione che consente agli utenti di cercare informazion
 1. Clone il repository:
 
    ```bash
-   git clone https://github.com/marcosfrias28/Meteo-Country-Vite-React-CSS/.git
+   git clone https://github.com/marcosfrias28/Meteo-Country-Vite-React-CSS
 
 ## Tecnologie Utilizzate
 
