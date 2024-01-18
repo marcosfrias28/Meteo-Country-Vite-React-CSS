@@ -16,4 +16,29 @@ Meteo Country è un'applicazione che consente agli utenti di cercare informazion
    ```bash
    git clone https://github.com/marcosfrias28/Meteo-Country-Vite-React-CSS/.git
 
-2. 
+## Tecnologie Utilizzate
+
+- Vite
+- React
+- CSS
+- Standard EsLint
+- axios
+
+Utilizzo
+
+Accedi all'applicazione nel tuo browser.
+Inserisci il nome del paese nella barra di ricerca.
+Visualizza le informazioni dettagliate e il meteo attuale del paese selezionato.
+Contributi
+
+Siamo aperti a contributi! Sentiti libero di aprire un problema o inviare una richiesta di pull.
+
+Licenza
+
+Questo progetto è concesso in licenza sotto la Licenza MIT - vedi il file LICENSE per i dettagli.
+
+Contatti
+
+Per ulteriori informazioni o domande, contattaci all'indirizzo email: marcofrias0828@gmail.com
+
+Grazie per l'uso di Meteo Country! Speriamo che tu trovi utile l'applicazione per esplorare il meteo e le informazioni sui paesi.
